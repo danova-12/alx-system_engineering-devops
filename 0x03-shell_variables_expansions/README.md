@@ -1,0 +1,1 @@
+this tells about scripts
